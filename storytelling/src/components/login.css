@@ -21,3 +21,7 @@
     justify-content: center;
     align-content: center;
 }
+
+.Button{
+    padding-left: .3125rem;
+}
